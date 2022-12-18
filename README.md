@@ -24,6 +24,6 @@ Confidence calibration or uncertainty calibration - the process to calibrate the
 
 
 ## Regularization Methods
-- Label Smoothing [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629.pdf)
+- Label Smoothing [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629.pdf) [NeurIPS 2019]
 - Mixup: [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://arxiv.org/pdf/1905.11001.pdf) [NeurIPS 2019]
 - AugMix: [AUGMIX: A SIMPLE DATA PROCESSING METHOD TO IMPROVE ROBUSTNESS AND UNCERTAINTY](https://arxiv.org/pdf/1912.02781.pdf) [ICLR 2020]
